@@ -1,0 +1,4 @@
+PROCESS-NAME,/Applications/CleanShot X.app/Contents/Library/LoginItems/LaunchAtLoginHelper.app/Contents/MacOS/LaunchAtLoginHelper
+PROCESS-NAME,/Applications/CleanShot X.app/Contents/MacOS/CleanShot X
+PROCESS-NAME,/Applications/iShot.app/Contents/Library/LoginItems/iShotHelper.app/Contents/MacOS/iShotHelper
+PROCESS-NAME,/Applications/iShot.app/Contents/MacOS/iShot
